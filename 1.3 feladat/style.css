@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.feladat3 {
+  width: 600px;
+  height: 500px;
+  flex-direction: column;
+  display: flex;
+}
+.zold {
+  background-color: green;
+  color: green;
+  display: flex;
+  flex-grow: 1;
+  
+}
+
+.sarga {
+  background-color: yellow;
+  color: yellow;
+  flex-grow: 2;
+  display: flex;
+  
+}
+
+.lila {
+  background-color: purple;
+  color:purple;
+  display: flex;
+  flex-grow: 1;
+}
