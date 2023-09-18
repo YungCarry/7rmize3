@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+body {
+  background-color: yellow;
+}
+
+.hero {
+  width: 100%;
+  height: 400px;
+}
+
+li {
+  background-color: purple;
+  height: 100px;
+  width: 100px;
+}
+
+ul {
+  justify-content: flex-end;
+  align-items: flex-end;
+  gap: 5px;
+}
