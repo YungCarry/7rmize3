@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.feladat1 {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+}
+.zold {
+  background-color: green;
+  color: green;
+  width: 33%;
+}
+
+.sarga {
+  background-color: yellow;
+  color: yellow;
+  width: 33%;
+}
+
+.lila {
+  background-color: purple;
+  color: yellow;
+  width: 33%;
+}

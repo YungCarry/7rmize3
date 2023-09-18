@@ -1,0 +1,23 @@
+* {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 400px;
+}
+.hero {
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+    align-items:  center;
+    justify-content: space-evenly;
+}
+
+.a-hero {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    
+}

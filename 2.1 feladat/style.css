@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lila {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+}
+
+.sarga {
+    display: none;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.zold {
+    display: none;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+    height: 300px;
+}
